@@ -7,7 +7,7 @@ package edu.zju.elliottqian.BinarySearch;
  *
  * 优化: 两个2分查找可以合并成一个
  */
-public class S74 {
+public class S074 {
     public static void main(String[] args){
         int[][] examples = {
                 {1,   3,  5,  7},
