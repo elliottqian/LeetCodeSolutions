@@ -1,4 +1,4 @@
-package edu.zju.elliottqian.LinkedList;
+package edu.zju.elliottqian.line_struct;
 
 /**
  * Created by ElliottQian on 2016.04.11.
